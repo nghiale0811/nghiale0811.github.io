@@ -16,7 +16,7 @@
       <link>http://nghiale0811.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://shin2suka.github.io/about/</guid>
+      <guid>http://nghiale0811.github.io/about/</guid>
       <description>function myFunction() { alert(My name is Nghia); }   .container-fluid { padding-top: 70px; padding-bottom: 70px; } .headshot { padding-top: 70px; display: block; margin-left: auto; margin-right: auto; width: 20%; animation: fadein 4s; -webkit-animation: fadein 4s; } @keyframes fadein { from { opacity:0; } to { opacity:1; } } @-webkit-keyframes fadein { /* Safari and Chrome */ from { opacity:0; } to { opacity:1; } } .video-responsive{ overflow:hidden; padding-bottom:56.</description>
     </item>
     
@@ -36,6 +36,15 @@
       
       <guid>http://nghiale0811.github.io/tools/</guid>
       <description>var Loadquotes= function(){ debugger; var quotes = new Array(&#39;葱爆羊肉\n Stir-Fried Lamb with Leeks&#39;,&#39;杏鲍菇牛肉粒\n Stir-Fried Beef Cubes with Pleurotus Eryngii&#39;,&#39;番茄土豆顿牛腩\n Tomato Potato and Beef Brisket&#39;,&#39;蒜蓉烤金针菇\n Baked Enokitake with Minced Garlic&#39;,&#39;香菇蒸肉饼\n Steamed Pork with Shiitake&#39;,&#39;豉汁排骨\n Steamed Pork Ribs with Black Bean Sauce&#39;,&#39;小炒肉\n Little Fried Pork&#39;,&#34;别问我\n Don&#39;t ask me&#34;,&#34;不知道\n I don&#39;t know&#34;,&#39;别吃了\n Bier Tsi Le&#39;,&#39;咖喱饭\n Curry Rice&#39;,&#39;面条\n Noodles&#39;,&#39;西红柿炒蛋\n Scrambled Egg with Tomato&#39;,&#39;胡萝卜玉米排骨汤\n Carrot Corn and Pork Ribs Soup&#39;,&#39;烤羊排\n Roasted Lamb Chops&#39;,&#34;Don&#39;t eat chicken nuggets&#34;</description>
+    </item>
+
+    <item>
+      <title>Misc</title>
+      <link>http://nghiale0811.github.io/Misc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nghiale0811.github.io/Misc/</guid>
+      <description>function myFunction() { alert(My name is Nghia); }   .container-fluid { padding-top: 70px; padding-bottom: 70px; } .headshot { padding-top: 70px; display: block; margin-left: auto; margin-right: auto; width: 20%; animation: fadein 4s; -webkit-animation: fadein 4s; } @keyframes fadein { from { opacity:0; } to { opacity:1; } } @-webkit-keyframes fadein { /* Safari and Chrome */ from { opacity:0; } to { opacity:1; } } .video-responsive{ overflow:hidden; padding-bottom:56.</description>
     </item>
     
   </channel>
