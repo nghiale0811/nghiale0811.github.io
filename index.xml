@@ -40,10 +40,10 @@
 
     <item>
       <title>Misc</title>
-      <link>http://nghiale0811.github.io/Misc/</link>
+      <link>http://nghiale0811.github.io/misc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://nghiale0811.github.io/Misc/</guid>
+      <guid>http://nghiale0811.github.io/misc/</guid>
       <description>function myFunction() { alert(My name is Nghia); }   .container-fluid { padding-top: 70px; padding-bottom: 70px; } .headshot { padding-top: 70px; display: block; margin-left: auto; margin-right: auto; width: 20%; animation: fadein 4s; -webkit-animation: fadein 4s; } @keyframes fadein { from { opacity:0; } to { opacity:1; } } @-webkit-keyframes fadein { /* Safari and Chrome */ from { opacity:0; } to { opacity:1; } } .video-responsive{ overflow:hidden; padding-bottom:56.</description>
     </item>
     
